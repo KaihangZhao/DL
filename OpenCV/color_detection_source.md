@@ -11,6 +11,8 @@ Transfer Learning: R-CNN
 
 http://cs230.stanford.edu/projects_winter_2020/reports/32154521.pdf 
 
+https://github.com/levindabhi/cloth-segmentation
+
 
 ## OpenCV for Color Detection
 
