@@ -4,9 +4,12 @@
 
 ## Yolo, R-CNN for object detection/ segmentation
 Transfer Learning: Yolo v3 
-http://ise.ait.ac.th/wp-content/uploads/sites/57/2020/12/CLOTHING-RECOGNITION-USING-DEEP-LEARNING-TECHNIQUES.pdf \
+
+http://ise.ait.ac.th/wp-content/uploads/sites/57/2020/12/CLOTHING-RECOGNITION-USING-DEEP-LEARNING-TECHNIQUES.pdf 
+
 Transfer Learning: R-CNN 
-http://cs230.stanford.edu/projects_winter_2020/reports/32154521.pdf \
+
+http://cs230.stanford.edu/projects_winter_2020/reports/32154521.pdf 
 
 
 ## OpenCV
