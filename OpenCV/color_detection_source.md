@@ -22,7 +22,9 @@ https://towardsdatascience.com/color-identification-in-images-machine-learning-a
 
 
 ## Probable Training Data
+
 Probable Dataset: DeepFashion, DeepFashion2, Fashionmnist, Imaterial-fashion-2019 
+
 http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html 
 
 https://github.com/switchablenorms/DeepFashion2 
