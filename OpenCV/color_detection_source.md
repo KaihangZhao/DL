@@ -23,6 +23,11 @@ https://github.com/codebrainz/color-names/blob/master/output/colors.csv
 https://towardsdatascience.com/color-identification-in-images-machine-learning-application-b26e770c4c71
 
 
+## Bounding Box Detection
+
+https://openaccess.thecvf.com/content_CVPR_2019/papers/Ge_DeepFashion2_A_Versatile_Benchmark_for_Detection_Pose_Estimation_Segmentation_and_CVPR_2019_paper.pdf
+
+
 ## Probable Training Data
 
 Probable Dataset: DeepFashion, DeepFashion2, Fashionmnist, Imaterial-fashion-2019 
