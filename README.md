@@ -1,7 +1,6 @@
 # DL Notebooks
 
 - Recommendation System
-- CNN Transfer Learning
-- OpenCV
-- BERT Text Classification
+- Computer Vision: CNN Transfer Learning
+- Natural Language Processing: LSTM/ Transformer(BERT)
 - Deep Learning Tutorial (Keras)
