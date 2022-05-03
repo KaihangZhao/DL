@@ -1,7 +1,12 @@
 # DL Notebooks
 - Cosine Learning Rate (converge much faster and skip saddle points)
+  - Cosine&Customize_lr.ipynb
 - Recommendation System
+  - Recommendation_System Folder
 - Computer Vision: CNN Transfer Learning
-- Natural Language Processing: LSTM/ Transformer(BERT)
+  - CNN_Transfer_Learning.ipynb
 - Pretrained BERT used to represent text
+  - Bert_emb_extraction.ipynb 
+- Natural Language Processing: LSTM/ Transformer(BERT)
 - Deep Learning Tutorial (Keras)
+  - Keras Folder 
