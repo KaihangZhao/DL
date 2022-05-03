@@ -1,4 +1,4 @@
-# DL Notebooks
+# DL Notebooks (updating)
 - Cosine Learning Rate (converge much faster and skip saddle points)
   - Cosine&Customize_lr.ipynb
 - Recommendation System
