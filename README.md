@@ -3,7 +3,7 @@
   - Cosine&Customize_lr.ipynb
 - Recommendation System
   - Recommendation_System Folder
-- Computer Vision: CNN Transfer Learning
+- Computer Vision: 
   - CNN_Transfer_Learning.ipynb
 - Pretrained BERT used to represent text
   - Bert_emb_extraction.ipynb 
